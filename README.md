@@ -20,7 +20,7 @@ UWConnect is an innovative platform designed to enhance the connectivity and col
 
 ## Product Showcase
 
-![](images/intro-video.mp4){width=1000}
+![](images/intro-video.mp4)
 
 <table>
 <tr>
