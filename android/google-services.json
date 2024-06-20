@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280837857579",
+    "project_id": "vigilant-guru-414404",
+    "storage_bucket": "vigilant-guru-414404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280837857579:android:4b4a86cd08f5be80ba656e",
+        "android_client_info": {
+          "package_name": "com.uwconnect.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VMrbl1xEbpCWawI15fkqMNVpeU8aX0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

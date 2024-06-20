@@ -1,0 +1,6 @@
+runtime: java17
+entrypoint: 'java -jar server-all.jar'
+env_variables:
+  JWT_SECRET: "<secret>"
+  DATABASE_URL: "jdbc:postgresql://<address>:5432/uwconnect"
+  DATABASE_PASSWORD: "<password>"

@@ -1,0 +1,25 @@
+package com.uwconnect.android.presentation.ui
+
+import androidx.compose.ui.graphics.Color
+
+val White = Color(0xFFFFFFFF)
+val Gray = Color(0xFF808080)
+val LightGray = Color(0xFFD3D3D3)
+val Black = Color(0xFF000000)
+val DarkBlue = Color(0xFF0E103A)
+val EveningBlue = Color(0xFF1D217C)
+val NightBlue = Color(0xFF05061F)
+val LightBlue = Color(0xFF0151AD)
+val SkyBlue = Color(0xFF87CEEB)
+val OffWhite = Color(0xD2F5F5F5)
+val Red = Color(0xFFD32F2F)
+val LightRed = Color(0xFFDD4949)
+val DarkRed = Color(0xFF7C080E)
+val Brown = Color(0xFF8B4513)
+val BlueGrey = Color(0xFF607D8B)
+val Teal = Color(0xFF008080)
+val Cyan = Color(0xFF00FFFF)
+val Pink = Color(0xFFFF1493)
+val Green = Color(0xFF10A810)
+val Orange = Color(0xFFFFA500)
+val DarkGreen = Color(0xFF034203)
