@@ -3,7 +3,7 @@
 
 UWConnect is an innovative platform designed to enhance the connectivity and collaboration among University of Waterloo students, faculty, and staff. By facilitating more direct communication and providing a centralized hub for resources and information, UWConnect aims to make campus life more integrated and accessible for everyone involved! Whether you're looking to join a group related to your interests, find campus events, or connect with peers and professors, UWConnect is your go-to solution!
 
-> This is a video! Click on it to see the project walkthrough and manual rather than having to read all our documentation!
+> This is a video! Click on it to see the project walkthrough rather than having to read all our documentation!
 [![OUR PROJECT WALKTHROUGH](https://img.youtube.com/vi/A8VEZt210TY/0.jpg)](https://youtu.be/A8VEZt210TY)
 
 
@@ -62,34 +62,7 @@ UWConnect is an innovative platform designed to enhance the connectivity and col
 | [![Sagar Patel](https://secure.gravatar.com/avatar/31e1cd121898679286801fd9dc20a691?s=192&d=identicon)](https://github.com/sagarpatel211) | [![Ibrahim Kashif](https://secure.gravatar.com/avatar/bea135fc93ed8fb2764c3de4e4160d7c?s=192&d=identicon)](http://github.com/unknown) | [![Alex Yu](https://git.uwaterloo.ca/uploads/-/system/user/avatar/17250/avatar.png?s=192&d=identicon)](http://github.com/unknown) | [![Eric Liu](https://secure.gravatar.com/avatar/9da9e9a057abfcdd7c0be9f93e4a0c18?s=192&d=identicon)](http://github.com/unknown) |
 |                                                           sa24pate@uwaterloo.ca                                                           |                                                         i2kashif@uwaterloo.ca                                                         |                                                        a85yu@uwaterloo.ca                                                         |                                                       e82liu@uwaterloo.ca                                                       |
 
-> Find about our [Meeting Minutes and Developer Journals](#meeting-minutes-developer-journals-and-final-reflections) down below!
 
-## User Documentation
-
-- **Installation Guide**: How to install and run UWConnect: [Installation Guide](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/User-Installation-Guide).
-- **User Guide**: How to use UWConnect effectively: [User Guide](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/User-Guide).
-
-## Design Documentation
-
-Comprehensive design documentation is available on our Wiki:
-- [Revised Personas & Prototypes](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Revised-Personas-&-Prototypes)
-- [Design Documentation](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Design-Documentation)
-
-## Software Releases
-
-- **Version 0.1.0 (Sprint 1)**: [Release Notes and Installer](https://git.uwaterloo.ca/sa24pate/team-102-13/-/releases/0.1.0)
-- **Version 1.0.0 (Sprint 2)**: [Release Notes and Installer](https://git.uwaterloo.ca/sa24pate/team-102-13/-/releases/1.0.0)
-- **Version 2.0.0 (Sprint 3)**: [Release Notes and Installer](https://git.uwaterloo.ca/sa24pate/team-102-13/-/releases/2.0.0)
-- **Version 3.0.0 (Sprint 4)**: [Release Notes and Installer](https://git.uwaterloo.ca/sa24pate/team-102-13/-/releases/3.0.0)
-
-## Meeting Minutes, Developer Journals, and Final Reflections
-
-- [Meeting Minutes](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Meeting-Minutes)
-- [Sagar's Journal](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Sagar's-Sprint-Journal)
-- [Ibrahim's Journal](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Ibrahim's-Sprint-Journal)
-- [Alex's Journal](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Alex's-Sprint-Journal)
-- [Eric's Journal](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Eric's-Sprint-Journal)
-- [Final Reflections](https://git.uwaterloo.ca/sa24pate/team-102-13/-/wikis/Final-Reflection)
 
 ## Third-Party Acknowledgements
 
