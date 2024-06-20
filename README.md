@@ -8,15 +8,25 @@ UWConnect is an innovative platform designed to enhance the connectivity and col
 
 
 ## Table of Contents
-
+- [Languages, Technologies, and Frameworks Used](#languages-technologies-and-frameworks-used)
 - [Product Showcase](#product-showcase)
 - [Team Information](#team-information)
-- [User Documentation](#user-documentation)
-- [Design Documentation](#design-documentation)
-- [Software Releases](#software-releases)
-- [Meeting Minutes, Developer Journals, and Final Reflections](#meeting-minutes-developer-journals-and-final-reflections)
 - [Third-Party Acknowledgements](#third-party-acknowledgements)
 - [Copyright and License](#copyright-and-license)
+
+## Languages, Technologies, and Frameworks Used
+- Kotlin
+- Gradle
+- IntelliJ IDEA
+- Ktor Server
+- Jetpack Compose
+- Google Cloud
+- PostgreSQL
+- JUnit & Mockito
+- Google Dagger Hilt
+- MVVM/Clean Architecture Structure
+- Firebase Cloud Messaging
+- Figma Design
 
 ## Product Showcase
 
